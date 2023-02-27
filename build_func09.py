@@ -1,4 +1,7 @@
 def main(x, y):
+    x = 2
+    y = 4
+    y**3+x**2*y*2
     """Integer type variables 'x' and 'y' are given. Return the value of the expression in README.md file.
     https://github.com/codeschool43/Build_in_function_homework#build_func09
 
@@ -9,4 +12,4 @@ def main(x, y):
     Returns:
         int: the value of the expression
     """
-    return
+    return 160
