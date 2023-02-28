@@ -13,3 +13,4 @@ def main(x, y):
         int: the value of the expression
     """
     return 10.0
+    print(main(x,y))
